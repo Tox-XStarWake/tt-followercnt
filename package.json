@@ -14,5 +14,9 @@
     "start": "node server.js"
   },
   "author": "ToxicSalt",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tox-XStarWake/tt-followercnt"
+  }
 }
